@@ -1,4 +1,4 @@
-# Quản lý bán thuốc scan barcode 3 layer / C# / winform / SQL Server / Guna UI2
+# Quản lý bán thuốc scan barcode 3 layer / C# / winform / SQL Server / Guna UI2 / Aforge.net / Zxing
 ## Login
 ![image](https://github.com/user-attachments/assets/ee2061b4-0a0a-4874-a929-180bfe059f37)
 ## Main
